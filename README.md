@@ -17,6 +17,6 @@ Important steps in setting up and planning a repository:
 
 1. Create venv environment with requirements.txt
 2. Initial setup with setup.py 
-3. Implement logging
-4. Implement exception handling 
+3. Create src with components, pipeline. 
+3. Within src, implement utils, logging and exception. 
 
