@@ -1,0 +1,6 @@
+# this file details requirements for running project
+pandas
+numpy
+seaborn
+# used to trigger setup.py file
+-e .

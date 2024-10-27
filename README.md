@@ -15,9 +15,8 @@ This is an end-to-end ML project including deployment with CI/CD Pipeline which 
 
 Important steps in setting up and planning a repository: 
 
-1. Create environment with requirements.txt
+1. Create venv environment with requirements.txt
 2. Initial setup with setup.py 
 3. Implement logging
-4. Implement exception handling
+4. Implement exception handling 
 
-git init
