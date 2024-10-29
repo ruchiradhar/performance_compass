@@ -2,5 +2,7 @@
 pandas
 numpy
 seaborn
+matplotlib
+scikit-learn
 # used to trigger setup.py file
--e .
+#-e .

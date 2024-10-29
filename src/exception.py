@@ -1,7 +1,7 @@
 # file allows raising of exception with custom error message
 # imports 
 import sys #allows manipulation of runtime environment
-import logging
+from src.logger import logging
 
 # custom error message function
 def error_message_detail(error, error_detail:sys): 
